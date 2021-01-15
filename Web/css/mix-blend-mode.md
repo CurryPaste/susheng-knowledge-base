@@ -1,4 +1,4 @@
-# css混合模式
+# css混合模式 mix-blend-mode
 
 [参考链接](https://www.zhangxinxu.com/wordpress/2019/05/css-mix-blend-mode-screen/)
 
