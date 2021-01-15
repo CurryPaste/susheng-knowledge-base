@@ -16,7 +16,7 @@
 2. 其他方法，如磊哥在案例库写的一个确认框处理。
 
 ##### 模拟数据[mock](http://mockjs.com/examples.html)
-1. 通过.env 设置 VUE_APP_MOCK = 1 控制
+1. 通过.env 设置 ```VUE_APP_MOCK = 1``` 控制
 2. 不需要更改请求接口，需要时设置 不为 1 的值，就可以使用mock启动
 
 ##### 路由router
