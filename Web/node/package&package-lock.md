@@ -1,4 +1,4 @@
-# package.json 和 package-lock.json
+# package.json 和 package-lock.json 的关系和区别
 
 ### package.json
 package.json文件记录你项目中所需要的所有模块。
